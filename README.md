@@ -1,0 +1,1 @@
+# Matris_Elemanlar_Toplam_Carpim_Ort
